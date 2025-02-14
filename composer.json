@@ -1,0 +1,11 @@
+{
+    "name": "your-name/homeowner-parser",
+    "description": "Homeowner name parsing utility",
+    "type": "project",
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
