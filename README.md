@@ -12,6 +12,7 @@ cd homeowner-parser
 composer install
 
 # To Run the Program
+Run the following in the terminal, within the project root directory:
 php NameParser.php, data/homeowners.csv
 
 # PHPUnit Testing
